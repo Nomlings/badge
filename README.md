@@ -1,4 +1,4 @@
-# 🥚 Nomlings Badge
+# <img src="https://nomlings.cc/badge/_egg?scale=4" alt="a wobbling pixel egg" height="34"> Nomlings Badge
 
 **A tiny pixel pet for your GitHub README that eats your commits.**
 
