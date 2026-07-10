@@ -19,9 +19,9 @@ These are live, rendered from each account's real activity right now:
 
 | | |
 | --- | --- |
-| [![torvalds' nomling](https://nomlings.cc/badge/torvalds?scale=5&color=%2358a6ff)](https://nomlings.cc) | **Linus Torvalds** built Linux and git. His Wispling has never missed a meal. |
+| [![torvalds' nomling](https://nomlings.cc/badge/torvalds?scale=5&color=%2358a6ff)](https://nomlings.cc) | **Linus Torvalds** built Linux and git. His Wispling has been eating kernel commits since 1991. |
 | [![pewdiepie's nomling](https://nomlings.cc/badge/pewdiepie-archdaemon?scale=5&color=%23ff8833)](https://nomlings.cc) | **PewDiePie** hatched a Sproutling. It eats dotfiles and self-hosted AI. |
-| [![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus?scale=5&color=%23ffd700)](https://nomlings.cc) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling's streak is measured in months. |
+| [![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus?scale=5&color=%23ffd700)](https://nomlings.cc) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling never goes hungry. |
 | [![karpathy's nomling](https://nomlings.cc/badge/karpathy?scale=5&color=%23ff6ec7)](https://nomlings.cc) | **Andrej Karpathy**'s Peckling naps between training runs. It wakes up hungry. |
 
 Yours is already waiting at `https://nomlings.cc/badge/YOUR-USERNAME`. Go say hi.
