@@ -47,11 +47,14 @@ last-year total.
 ## Choose your species
 
 Your species is hatched from your username, but there are ten Nomlings
-and you can pick any of them with `?pet=`:
+and you can pick any of them with `?pet=`. Here is the whole family:
 
-`nomling` (Munchling) · `enderling` · `peckling` · `wispling` ·
-`byteling` · `sproutling` · `hopling` · `twinkling` · `sporeling` ·
-`buzzling`
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Munchling](https://nomlings.cc/badge/torvalds?pet=nomling&label=off&scale=4) | ![Enderling](https://nomlings.cc/badge/torvalds?pet=enderling&label=off&scale=4) | ![Peckling](https://nomlings.cc/badge/torvalds?pet=peckling&label=off&scale=4) | ![Wispling](https://nomlings.cc/badge/torvalds?pet=wispling&label=off&scale=4) | ![Byteling](https://nomlings.cc/badge/torvalds?pet=byteling&label=off&scale=4) |
+| `nomling` | `enderling` | `peckling` | `wispling` | `byteling` |
+| ![Sproutling](https://nomlings.cc/badge/torvalds?pet=sproutling&label=off&scale=4) | ![Hopling](https://nomlings.cc/badge/torvalds?pet=hopling&label=off&scale=4) | ![Twinkling](https://nomlings.cc/badge/torvalds?pet=twinkling&label=off&scale=4) | ![Sporeling](https://nomlings.cc/badge/torvalds?pet=sporeling&label=off&scale=4) | ![Buzzling](https://nomlings.cc/badge/torvalds?pet=buzzling&label=off&scale=4) |
+| `sproutling` | `hopling` | `twinkling` | `sporeling` | `buzzling` |
 
 ```md
 [![my nomling](https://nomlings.cc/badge/YOUR-USERNAME?pet=byteling)](https://nomlings.cc/badge)
