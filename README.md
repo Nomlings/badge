@@ -7,10 +7,11 @@ It shows your real contribution stats: it munches when you commit, keeps
 your streak, celebrates your big days, and falls asleep if you go quiet.
 
 ```md
-![my nomling](https://nomlings.cc/badge/YOUR-USERNAME)
+[![my nomling](https://nomlings.cc/badge/YOUR-USERNAME)](https://nomlings.cc)
 ```
 
-That's it. No signup, no token, no config.
+That's it. No signup, no token, no config. Clicking the pet leads back to
+the Nomlings, so every adopted badge is also a door here.
 
 ## Pets in the wild
 
@@ -18,10 +19,10 @@ These are live, rendered from each account's real activity right now:
 
 | | |
 | --- | --- |
-| ![torvalds' nomling](https://nomlings.cc/badge/torvalds) | **Linus Torvalds** built Linux and git. His Wispling has never missed a meal. |
-| ![pewdiepie's nomling](https://nomlings.cc/badge/pewdiepie-archdaemon) | **PewDiePie** hatched a Sproutling. It eats dotfiles and self-hosted AI. |
-| ![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling's streak is measured in months. |
-| ![karpathy's nomling](https://nomlings.cc/badge/karpathy) | **Andrej Karpathy**'s Peckling naps between training runs. It wakes up hungry. |
+| [![torvalds' nomling](https://nomlings.cc/badge/torvalds?scale=5&color=%2358a6ff)](https://nomlings.cc) | **Linus Torvalds** built Linux and git. His Wispling has never missed a meal. |
+| [![pewdiepie's nomling](https://nomlings.cc/badge/pewdiepie-archdaemon?scale=5&color=%23ff8833)](https://nomlings.cc) | **PewDiePie** hatched a Sproutling. It eats dotfiles and self-hosted AI. |
+| [![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus?scale=5&color=%23ffd700)](https://nomlings.cc) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling's streak is measured in months. |
+| [![karpathy's nomling](https://nomlings.cc/badge/karpathy?scale=5&color=%23ff6ec7)](https://nomlings.cc) | **Andrej Karpathy**'s Peckling naps between training runs. It wakes up hungry. |
 
 Yours is already waiting at `https://nomlings.cc/badge/YOUR-USERNAME`. Go say hi.
 
@@ -53,7 +54,7 @@ and you can pick any of them with `?pet=`:
 `buzzling`
 
 ```md
-![my nomling](https://nomlings.cc/badge/YOUR-USERNAME?pet=byteling)
+[![my nomling](https://nomlings.cc/badge/YOUR-USERNAME?pet=byteling)](https://nomlings.cc)
 ```
 
 ## Options
