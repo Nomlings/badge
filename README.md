@@ -1,4 +1,4 @@
-# <img src="https://nomlings.cc/badge/_egg?scale=4" alt="a wobbling pixel egg" height="34"> Nomlings Badge
+# <img src="https://nomlings.cc/badge/_egg?scale=4&v=3" alt="a wobbling pixel egg" height="34"> Nomlings Badge
 
 **A tiny pixel pet for your GitHub README that eats your commits.**
 
@@ -19,10 +19,10 @@ These are live, rendered from each account's real activity right now:
 
 | | |
 | --- | --- |
-| [![torvalds' nomling](https://nomlings.cc/badge/torvalds?scale=5&color=%2358a6ff)](https://nomlings.cc/badge) | **Linus Torvalds** built Linux and git. His Wispling has been eating kernel commits since 1991. |
-| [![pewdiepie's nomling](https://nomlings.cc/badge/pewdiepie-archdaemon?scale=5&color=%23ff8833)](https://nomlings.cc/badge) | **PewDiePie** hatched a Sproutling. It eats dotfiles and self-hosted AI. |
-| [![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus?scale=5&color=%23ffd700)](https://nomlings.cc/badge) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling never goes hungry. |
-| [![karpathy's nomling](https://nomlings.cc/badge/karpathy?scale=5&color=%23ff6ec7)](https://nomlings.cc/badge) | **Andrej Karpathy**'s Peckling naps between training runs. It wakes up hungry. |
+| [![torvalds' nomling](https://nomlings.cc/badge/torvalds?scale=5&color=%2358a6ff&v=3)](https://nomlings.cc/badge) | **Linus Torvalds** built Linux and git. His Wispling has been eating kernel commits since 1991. |
+| [![pewdiepie's nomling](https://nomlings.cc/badge/pewdiepie-archdaemon?scale=5&color=%23ff8833&v=3)](https://nomlings.cc/badge) | **PewDiePie** hatched a Sproutling. It eats dotfiles and self-hosted AI. |
+| [![sindresorhus' nomling](https://nomlings.cc/badge/sindresorhus?scale=5&color=%23ffd700&v=3)](https://nomlings.cc/badge) | **Sindre Sorhus** maintains a thousand npm packages. His Twinkling never goes hungry. |
+| [![karpathy's nomling](https://nomlings.cc/badge/karpathy?scale=5&color=%23ff6ec7&v=3)](https://nomlings.cc/badge) | **Andrej Karpathy**'s Peckling naps between training runs. It wakes up hungry. |
 
 Yours is already waiting at `https://nomlings.cc/badge/YOUR-USERNAME`. Go say hi.
 
@@ -36,11 +36,11 @@ Here is a Buzzling running through all five (these are live, animated):
 
 | Mood | Meaning |
 | :---: | --- |
-| ![celebrating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=celebrate&label=off&scale=3)<br>🎉 **celebrating** | 15+ contributions today. On fire. |
-| ![eating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=eat&label=off&scale=3)<br>😋 **eating** | you contributed today (with your current streak) |
-| ![idle](https://nomlings.cc/badge/torvalds?pet=buzzling&state=idle&label=off&scale=3)<br>🙂 **idle** | active this week, nothing yet today |
-| ![sleeping](https://nomlings.cc/badge/torvalds?pet=buzzling&state=sleeping&label=off&scale=3)<br>💤 **sleeping** | zero contributions in 7 days |
-| ![egg](https://nomlings.cc/badge/torvalds?pet=buzzling&state=egg&label=off&scale=3)<br>🥚 **egg** | no contributions in the last year. Hatch it. |
+| ![celebrating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=celebrate&label=off&scale=3&v=3)<br>🎉 **celebrating** | 15+ contributions today. On fire. |
+| ![eating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=eat&label=off&scale=3&v=3)<br>😋 **eating** | you contributed today (with your current streak) |
+| ![idle](https://nomlings.cc/badge/torvalds?pet=buzzling&state=idle&label=off&scale=3&v=3)<br>🙂 **idle** | active this week, nothing yet today |
+| ![sleeping](https://nomlings.cc/badge/torvalds?pet=buzzling&state=sleeping&label=off&scale=3&v=3)<br>💤 **sleeping** | zero contributions in 7 days |
+| ![egg](https://nomlings.cc/badge/torvalds?pet=buzzling&state=egg&label=off&scale=3&v=3)<br>🥚 **egg** | no contributions in the last year. Hatch it. |
 
 Your pet's **level** grows with your yearly total, and the badge always
 shows the real numbers: contributions today, your streak, and your
@@ -53,9 +53,9 @@ and you can pick any of them with `?pet=`. Here is the whole family:
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Munchling](https://nomlings.cc/badge/torvalds?pet=nomling&label=off&scale=4&v=2) | ![Enderling](https://nomlings.cc/badge/torvalds?pet=enderling&label=off&scale=4&v=2) | ![Peckling](https://nomlings.cc/badge/torvalds?pet=peckling&label=off&scale=4&v=2) | ![Wispling](https://nomlings.cc/badge/torvalds?pet=wispling&label=off&scale=4&v=2) | ![Byteling](https://nomlings.cc/badge/torvalds?pet=byteling&label=off&scale=4&v=2) |
+| ![Munchling](https://nomlings.cc/badge/torvalds?pet=nomling&label=off&scale=4&v=3) | ![Enderling](https://nomlings.cc/badge/torvalds?pet=enderling&label=off&scale=4&v=3) | ![Peckling](https://nomlings.cc/badge/torvalds?pet=peckling&label=off&scale=4&v=3) | ![Wispling](https://nomlings.cc/badge/torvalds?pet=wispling&label=off&scale=4&v=3) | ![Byteling](https://nomlings.cc/badge/torvalds?pet=byteling&label=off&scale=4&v=3) |
 | `nomling` | `enderling` | `peckling` | `wispling` | `byteling` |
-| ![Sproutling](https://nomlings.cc/badge/torvalds?pet=sproutling&label=off&scale=4&v=2) | ![Hopling](https://nomlings.cc/badge/torvalds?pet=hopling&label=off&scale=4&v=2) | ![Twinkling](https://nomlings.cc/badge/torvalds?pet=twinkling&label=off&scale=4&v=2) | ![Sporeling](https://nomlings.cc/badge/torvalds?pet=sporeling&label=off&scale=4&v=2) | ![Buzzling](https://nomlings.cc/badge/torvalds?pet=buzzling&label=off&scale=4&v=2) |
+| ![Sproutling](https://nomlings.cc/badge/torvalds?pet=sproutling&label=off&scale=4&v=3) | ![Hopling](https://nomlings.cc/badge/torvalds?pet=hopling&label=off&scale=4&v=3) | ![Twinkling](https://nomlings.cc/badge/torvalds?pet=twinkling&label=off&scale=4&v=3) | ![Sporeling](https://nomlings.cc/badge/torvalds?pet=sporeling&label=off&scale=4&v=3) | ![Buzzling](https://nomlings.cc/badge/torvalds?pet=buzzling&label=off&scale=4&v=3) |
 | `sproutling` | `hopling` | `twinkling` | `sporeling` | `buzzling` |
 
 ```md
@@ -75,27 +75,27 @@ and you can pick any of them with `?pet=`. Here is the whole family:
 
 `?scale=2` for a footnote, default 4, `?scale=6` for a hero:
 
-![scale 2](https://nomlings.cc/badge/torvalds?scale=2)
+![scale 2](https://nomlings.cc/badge/torvalds?scale=2&v=3)
 
-![scale 4](https://nomlings.cc/badge/torvalds)
+![scale 4](https://nomlings.cc/badge/torvalds?v=3)
 
-![scale 6](https://nomlings.cc/badge/torvalds?scale=6)
+![scale 6](https://nomlings.cc/badge/torvalds?scale=6&v=3)
 
 ### Colors
 
 Any hex via `?color=` (URL-encode the `#` as `%23`):
 
-![orange hopling](https://nomlings.cc/badge/FrancescoCoding?pet=hopling&color=%23ff8833)
+![orange hopling](https://nomlings.cc/badge/FrancescoCoding?pet=hopling&color=%23ff8833&v=3)
 
-![purple wispling](https://nomlings.cc/badge/FrancescoCoding?pet=wispling&color=%23b085f5)
+![purple wispling](https://nomlings.cc/badge/FrancescoCoding?pet=wispling&color=%23b085f5&v=3)
 
-![gold twinkling](https://nomlings.cc/badge/FrancescoCoding?pet=twinkling&color=%23ffd700)
+![gold twinkling](https://nomlings.cc/badge/FrancescoCoding?pet=twinkling&color=%23ffd700&v=3)
 
 ### Sprite only
 
 `?label=off` drops the text. Perfect next to your name or in a table:
 
-![sprite only](https://nomlings.cc/badge/FrancescoCoding?label=off&scale=5) ![sprite only gold](https://nomlings.cc/badge/FrancescoCoding?pet=twinkling&label=off&scale=5&color=%23ffd700) ![sprite only purple](https://nomlings.cc/badge/FrancescoCoding?pet=wispling&label=off&scale=5&color=%23b085f5)
+![sprite only](https://nomlings.cc/badge/FrancescoCoding?label=off&scale=5&v=3) ![sprite only gold](https://nomlings.cc/badge/FrancescoCoding?pet=twinkling&label=off&scale=5&color=%23ffd700&v=3) ![sprite only purple](https://nomlings.cc/badge/FrancescoCoding?pet=wispling&label=off&scale=5&color=%23b085f5&v=3)
 
 Combine anything: `https://nomlings.cc/badge/YOU?pet=hopling&scale=6&color=%23ff8833`
 
