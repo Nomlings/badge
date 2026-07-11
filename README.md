@@ -32,13 +32,15 @@ The badge reads your contribution calendar (the same numbers as your
 profile graph, private contributions included when your profile shows
 them) and turns it into a mood:
 
+Here is a Buzzling running through all five (these are live, animated):
+
 | Mood | Meaning |
-| --- | --- |
-| 🎉 celebrating | 15+ contributions today. On fire. |
-| 😋 eating | you contributed today (with your current streak) |
-| 🙂 idle | active this week, nothing yet today |
-| 💤 sleeping | zero contributions in 7 days |
-| 🥚 egg | no contributions in the last year. Hatch it. |
+| :---: | --- |
+| ![celebrating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=celebrate&label=off&scale=3)<br>🎉 **celebrating** | 15+ contributions today. On fire. |
+| ![eating](https://nomlings.cc/badge/torvalds?pet=buzzling&state=eat&label=off&scale=3)<br>😋 **eating** | you contributed today (with your current streak) |
+| ![idle](https://nomlings.cc/badge/torvalds?pet=buzzling&state=idle&label=off&scale=3)<br>🙂 **idle** | active this week, nothing yet today |
+| ![sleeping](https://nomlings.cc/badge/torvalds?pet=buzzling&state=sleeping&label=off&scale=3)<br>💤 **sleeping** | zero contributions in 7 days |
+| ![egg](https://nomlings.cc/badge/torvalds?pet=buzzling&state=egg&label=off&scale=3)<br>🥚 **egg** | no contributions in the last year. Hatch it. |
 
 Your pet's **level** grows with your yearly total, and the badge always
 shows the real numbers: contributions today, your streak, and your
