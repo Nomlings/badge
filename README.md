@@ -51,9 +51,9 @@ and you can pick any of them with `?pet=`. Here is the whole family:
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Munchling](https://nomlings.cc/badge/torvalds?pet=nomling&label=off&scale=4) | ![Enderling](https://nomlings.cc/badge/torvalds?pet=enderling&label=off&scale=4) | ![Peckling](https://nomlings.cc/badge/torvalds?pet=peckling&label=off&scale=4) | ![Wispling](https://nomlings.cc/badge/torvalds?pet=wispling&label=off&scale=4) | ![Byteling](https://nomlings.cc/badge/torvalds?pet=byteling&label=off&scale=4) |
+| ![Munchling](https://nomlings.cc/badge/torvalds?pet=nomling&label=off&scale=4&v=2) | ![Enderling](https://nomlings.cc/badge/torvalds?pet=enderling&label=off&scale=4&v=2) | ![Peckling](https://nomlings.cc/badge/torvalds?pet=peckling&label=off&scale=4&v=2) | ![Wispling](https://nomlings.cc/badge/torvalds?pet=wispling&label=off&scale=4&v=2) | ![Byteling](https://nomlings.cc/badge/torvalds?pet=byteling&label=off&scale=4&v=2) |
 | `nomling` | `enderling` | `peckling` | `wispling` | `byteling` |
-| ![Sproutling](https://nomlings.cc/badge/torvalds?pet=sproutling&label=off&scale=4) | ![Hopling](https://nomlings.cc/badge/torvalds?pet=hopling&label=off&scale=4) | ![Twinkling](https://nomlings.cc/badge/torvalds?pet=twinkling&label=off&scale=4) | ![Sporeling](https://nomlings.cc/badge/torvalds?pet=sporeling&label=off&scale=4) | ![Buzzling](https://nomlings.cc/badge/torvalds?pet=buzzling&label=off&scale=4) |
+| ![Sproutling](https://nomlings.cc/badge/torvalds?pet=sproutling&label=off&scale=4&v=2) | ![Hopling](https://nomlings.cc/badge/torvalds?pet=hopling&label=off&scale=4&v=2) | ![Twinkling](https://nomlings.cc/badge/torvalds?pet=twinkling&label=off&scale=4&v=2) | ![Sporeling](https://nomlings.cc/badge/torvalds?pet=sporeling&label=off&scale=4&v=2) | ![Buzzling](https://nomlings.cc/badge/torvalds?pet=buzzling&label=off&scale=4&v=2) |
 | `sproutling` | `hopling` | `twinkling` | `sporeling` | `buzzling` |
 
 ```md
